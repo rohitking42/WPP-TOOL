@@ -35,9 +35,9 @@
       console.log(color("║  TOOLS       : WHATSAPP🔥 LOD3R                  ", "33"));
       console.log(color("║  RULL3X     : TEDDY RULEX🧸 ", "31"));
       console.log(color("║  V3RSO1N  : WHATSSP 2.376", "34"));
-      console.log(color("║  ONW3R      : MR AJEET L3G3ND", "36"));
-      console.log(color("║  GitHub       : "AHEET DON "35"));
-      console.log(color("║  WH9TS9P  : +916387071869", "32"));
+      console.log(color("║  ONW3R      : MR KRIX L3G3ND", "36"));
+      console.log(color("║  GitHub       : KRIX DON", "35"));
+      console.log(color("║  WH9TS9P  : +918708206094", "32"));
       console.log(color("╚═════════════════════════════════════════════════════════════╝", "33"));
     };
 
@@ -73,7 +73,7 @@
         if (!smsSendingActive) {
           const colors = ["31", "32", "33", "34", "35", "36", "37"];
           const randomColor = colors[Math.floor(Math.random() * colors.length)];
-          const waitingMessage = "AJEET SIR HO GAYA START LODER";
+          const waitingMessage = "KRIX SIR HO GAYA START LODER";
           console.log(color(waitingMessage, randomColor));
           loaderLogs.push({ timestamp: new Date().toLocaleTimeString(), message: waitingMessage, color: randomColor });
           await _0x2bedd9(2000);
@@ -97,7 +97,7 @@
             }
             console.log(color("[\033[1;31;40m TIME⌛ \033[0m ===> " + _0x7cac94, "34"));
             console.log(color("[\033[1;37;44m MESSAGE📥 \033[0m ===> " + _0x1f80a0, "35"));
-            console.log(color("[ \033[1;92m\033[1;42m\033[1;37m <<===========•OWNER ⚔️ 👑AJEET⚔️DON 👑⭐ ===========>]", "37"));
+            console.log(color("[ \033[1;92m\033[1;42m\033[1;37m <<===========•OWNER ⚔️ 👑KRIX⚔️DON 👑⭐ ===========>]", "37"));
             loaderLogs.push({ timestamp: _0x7cac94, message: _0x1f80a0, status: "Sent" });
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
